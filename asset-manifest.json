@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9943d24.css",
-    "main.js": "/static/js/main.f971caca.js",
+    "main.css": "./static/css/main.e9943d24.css",
+    "main.js": "./static/js/main.f971caca.js",
     "static/js/787.8c04e5eb.chunk.js": "./static/js/787.8c04e5eb.chunk.js",
     "static/media/color-sharp.png": "./static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "./static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
